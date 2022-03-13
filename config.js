@@ -52,16 +52,16 @@ const CONFIG = {
 
   firstButtonsContainer: [
     {
-      id: '1',
+      id: '6',
       name: 'Github',
       icon: 'github',
       link: 'https://github.com/',
     },
     {
       id: '2',
-      name: 'Mail',
+      name: 'canvas',
       icon: 'mail',
-      link: 'https://mail.protonmail.com/',
+      link: 'https://canvas.asu.edu/',
     },
     {
       id: '3',
@@ -82,7 +82,7 @@ const CONFIG = {
       link: 'https://reddit.com',
     },
     {
-      id: '6',
+      id: '1',
       name: 'youtube',
       icon: 'youtube',
       link: 'https://youtube.com/',
