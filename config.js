@@ -39,10 +39,10 @@ const CONFIG = {
   autoChangeTheme: true,
 
   // Autochabge by OS
-  changeThemeByOS: true,
+  changeThemeByOS: false,
 
   // Autochange by hour options (24hrs format, string must be in: hh:mm)
-  changeThemeByHour: false,
+  changeThemeByHour: true,
   hourDarkThemeActive: '18:30',
   hourDarkThemeInactive: '07:00',
 
@@ -169,12 +169,12 @@ const CONFIG = {
           link: 'https://www.dribbble.com',
         },
         {
-          name: 'Trello',
-          link: 'https://www.trello.com',
+          name: 'Discord',
+          link: 'https://discord.com',
         },
         {
-          name: 'Slack',
-          link: 'https://www.slack.com',
+          name: 'Twitch',
+          link: 'https://www.twitch.tv',
         },
       ],
     },
