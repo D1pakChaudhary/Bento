@@ -71,9 +71,9 @@ const CONFIG = {
     },
     {
       id: '4',
-      name: 'Calendar',
+      name: 'zoro',
       icon: 'calendar',
-      link: 'https://calendar.google.com/calendar/r',
+      link: 'https://zoro.to/',
     },
     {
       id: '5',
